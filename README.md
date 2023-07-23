@@ -1,7 +1,8 @@
 <!-- Profile Header -->
 <div align="center">
     <img src="https://avatars.githubusercontent.com/u/52674147" alt="My Profile Avatar" width="150px">
-    <h2>Welcome to My GitHub Profile</h2>
+</div>
+<div align="center">
     <a href="https://twitter.com/OfficialAhmed0">
         <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white&link=YOUR_TWITTER_PROFILE_URL" alt="Twitter">
     </a>
@@ -10,7 +11,7 @@
 <div align="center">
       <h3>TOP LANGUAGES</h3>
     <a href="https://github.com/officialahmed">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Officialahmed&hide=QML&layout=compact&langs_count=6" alt="Top Languages">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Officialahmed&hide=QML&layout=compact&langs_count=6&theme=tokyonight&card_width=465" alt="Top Languages">
     </a>
 </div>
 
@@ -24,8 +25,8 @@
 
 <!-- GitHub Stats and Streak -->
 <div align="center">
-    <a href="https://streak-stats.demolab.com/?user=OfficiAlahmed">
-        <img src="https://streak-stats.demolab.com/?user=OfficiAlahmed" alt="GitHub Streak">
+    <a href="https://streak-stats.demolab.com?user=OfficialAhmed&theme=tokyonight&card_width=465">
+        <img src="https://streak-stats.demolab.com?user=OfficialAhmed&theme=tokyonight&card_width=465" alt="GitHub Streak">
     </a>
 </div>
 
