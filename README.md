@@ -4,7 +4,7 @@
 </div>
 <div align="center">
     <a href="https://twitter.com/OfficialAhmed0">
-        <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white&link=YOUR_TWITTER_PROFILE_URL" alt="Twitter">
+        <img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=Twitter&logoColor=white" alt="Twitter">
     </a>
 </div>
 
@@ -19,7 +19,7 @@
 <div align="center">
     <h3>GitHub ACTIVITY</h3>
     <a href="https://github.com/OfficialAhmed?tab=repositories&q=&type=&language=&sort=stargazers">
-        <img src="https://github-readme-stats.vercel.app/api?username=Officialahmed&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=officialAhmed&show=reviews,prs_merged,prs_merged_percentage&theme=tokyonight" alt="GitHub Stats">
     </a>
 </div>
 
